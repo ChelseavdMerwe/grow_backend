@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wUNykXBQQyLyA3tX84CrajDXnBo9u/WNLyGxz0T0Peo=",
+  "Source": "grow_api_v1",
+  "BasePath": "_content/grow_api_v1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
