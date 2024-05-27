@@ -210,8 +210,10 @@ FakesAssemblies/
 
 # .NET
 bin/
+bin/Debug/net6.0
 obj/
 *.user
+.idea/.idea.grow_backend_api/
 
 # Rider files
 .idea/
